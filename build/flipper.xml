@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+	<showBackground>true</showBackground>
+	<pageWidth>700</pageWidth>
+	<pageHeight>1000</pageHeight>
+	<pageColor>0xffffff</pageColor>
+	<pageFlipDuration>1.0</pageFlipDuration>
+	<title><![CDATA[<p><font face="Arial" size="22" color="#ffffff">Title with <font color="#0000ff"><a href="foo.html">link</a></font></font></p>]]></title>
+	<showControls>true</showControls>
+	<page front="/images/catalog_13.jpg" frontType="bitmap" back="/images/mag_page9.jpg" backType="bitmap" pageHardness="1" />
+	<page front="/images/103.swf" frontType="swf"  backType="bitmap" pageHardness="0" />
+	<page front="/images/catalog_05.jpg" frontType="bitmap" back="/images/catalog_11.jpg" backType="bitmap" pageHardness="0" />
+	<page front="/images/catalog_11.jpg" frontType="bitmap" back="/images/catalog_12.jpg" backType="bitmap" pageHardness="0" />
+	<page front="/images/catalog_09.jpg" frontType="bitmap" back="/images/catalog_07.jpg" backType="bitmap" pageHardness="0" />
+	<page front="/images/catalog_06.jpg" frontType="bitmap" back="/images/catalog_01.jpg" backType="bitmap" pageHardness="0" />
+	<page front="/images/catalog_04.jpg" frontType="bitmap" back="/images/catalog_08.jpg" backType="bitmap" pageHardness="1" />
+</book>
