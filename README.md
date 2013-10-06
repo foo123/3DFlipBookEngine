@@ -1,6 +1,9 @@
 3DFlipBookEngine
 ================
 
+## Further development on this project has stopped!!
+
+
 Real 3D Flip Book in Actionscript 3
 
 ![Flipper](/images/flipper.jpg)
